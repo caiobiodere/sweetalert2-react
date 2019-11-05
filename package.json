@@ -31,7 +31,7 @@
   },
   "files": [
     "dist/",
-    "src/",
+    "",
   ],
   "keywords": [
     "alert",
